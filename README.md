@@ -40,19 +40,19 @@
 ## 🌐 Connect with Me:
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-thakur-4086bb2a7/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/adxtya.thakxr/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100063610430752" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="https://x.com/AdityaT1105" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="Twitter/X" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:adityabt24@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
