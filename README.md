@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>🚀</td>
-    <td>I’m constantly learning and experimenting with new tools and technologies. Each project is an opportunity to grow — as a developer and a creator.</td>
+    <td>I’m constantly learning and experimenting with new tools and technologies. Each project is an opportunity to grow -- as a developer and a creator.</td>
   </tr>
   <tr>
     <td>🔧</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>⚡</td>
-    <td><strong>Fun Fact:</strong> From pro-level cricket to clean UIs — I’m driven by precision and growth. 🏏💻</td>
+    <td><strong>Fun Fact:</strong> From pro-level cricket to clean UIs, I’m driven by precision and growth. 🏏💻</td>
   </tr>
 </table>
 
