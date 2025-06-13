@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Aditya+Thakur!" />
 </h1>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityabt.Adityabt&"  />
-</div>
-
 ## 💫 About Me:
 
 <table>
@@ -59,6 +55,10 @@
   <a href="mailto:adityabt24@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityabt.Adityabt&"  />
 </div>
 
 ---
