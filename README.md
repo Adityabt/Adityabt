@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Aditya+Thakur!" />
 </h1>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityabt.Adityabt&"  />
+</div>
+
 ## 💫 About Me:
 
 <table>
