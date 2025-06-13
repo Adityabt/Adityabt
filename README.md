@@ -57,9 +57,11 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Adityabt/count.svg?"  />
-</div>
+## 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Adityabt/count.svg" alt="Visitor Count" />
+</p>
+
 
 ---
 
