@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+;+I'm+Aditya+Thakur!" />
 </h1>
 
-## 💫 About Me:
+## 💫 About Me: 
 
 <table>
   <tr>
@@ -126,7 +126,7 @@
 ---
 
 ## 🏆 GitHub Trophies:
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Adityabt&theme=dark&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
