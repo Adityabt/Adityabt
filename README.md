@@ -52,9 +52,6 @@
   <a href="https://x.com/AdityaT1105" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:adityabt24@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ## 
@@ -107,7 +104,7 @@
 
 ---
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityabt/Adityabt/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Adityabt/Adityabt/output/github-snake.svg" />
