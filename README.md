@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+;+I'm+Aditya+Thakur!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Aditya+Thakur!" />
 </h1>
 
 ## 💫 About Me: 
