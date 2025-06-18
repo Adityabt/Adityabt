@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>🚀</td>
-    <td>I’m constantly learning and experimenting with new tools and technologies. Each project is an opportunity to grow -- as a developer and a creator.</td>
+    <td>I’m constantly learning and experimenting with new tools and technologies. Each project is an opportunity to grow -- as&nbsp;a&nbsp;developer and a creator.</td>
   </tr>
   <tr>
     <td>🔧</td>
