@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>👋</td>
-    <td>Hi, I'm <strong>Aditya Thakur</strong>, a passionate Web Developer focused on building responsive, user-friendly, and interactive web experiences. I enjoy combining creativity with functionality to develop intuitive interfaces that enhance the user experience.</td>
+    <td>Hi, I'm <strong>Aditya Thakur</strong>, a passionate Web Developer focused on building responsive, user-friendly, and interactive web experiences. I&nbsp;enjoy combining creativity with functionality to develop intuitive interfaces that enhance the user experience.</td>
   </tr>
   <tr>
     <td>⚛️</td>
