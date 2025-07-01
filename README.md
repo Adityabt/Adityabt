@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>🔧</td>
-    <td><strong>Currently Working On:</strong> Enhancing my AI ChatBot using React.</td>
+    <td><strong>Currently Working On:</strong> Enhancing my DSA Quiz Web-App using better tech.</td>
   </tr>
   <tr>
     <td>🌐</td>
