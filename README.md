@@ -125,11 +125,12 @@
 ## 🏆 GitHub Trophies:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityabt&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityabt&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://img.shields.io/github/followers/Adityabt?style=for-the-badge&label=Followers" />
+<img src="https://img.shields.io/github/stars/Adityabt?style=for-the-badge&label=Stars" />
+<img src="https://img.shields.io/github/repo-size/Adityabt/Adityabt?style=for-the-badge&label=Repo%20Size" />
 
 </div>
+
 
 
 ---
