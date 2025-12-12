@@ -124,12 +124,9 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-
-<img height="140" src="https://img.shields.io/badge/Profile%20Views-Active-blueviolet?style=for-the-badge" />
-<img height="140" src="https://img.shields.io/badge/Commits-Private/Hidden-blue?style=for-the-badge" />
-<img height="140" src="https://img.shields.io/badge/Projects-Ongoing-green?style=for-the-badge" />
-
+  <img src="https://raw.githubusercontent.com/therealadiassets/cyber-card/main/cyber-card.png" width="650" />
 </div>
+
 
 
 
