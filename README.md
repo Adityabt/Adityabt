@@ -82,25 +82,25 @@
 
 ---
 
-## 📊 GitHub Stats (SELF-HOSTED, NEVER BREAKS)
+# 📊 GitHub Stats (Modern + Stable)
 <div align="center">
 
-### 🔥 Contribution Overview  
-<img src="https://raw.githubusercontent.com/Adityabt/Adityabt/main/stats-card.svg" width="600"/>
+### 🔥 Overall GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Adityabt&theme=aura&show_icons=true&hide_border=true" height="160px"/>
 
-### 🔥 Streak  
-<img src="https://raw.githubusercontent.com/Adityabt/Adityabt/main/streak-card.svg" width="600"/>
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityabt&theme=aura&hide_border=true" height="160px"/>
 
-### 🔥 Languages  
-<img src="https://raw.githubusercontent.com/Adityabt/Adityabt/main/langs-card.svg" width="600"/>
+### 🔥 Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityabt&layout=compact&theme=aura&hide_border=true" height="160px"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophy (SELF-HOSTED)
+## 🏆 GitHub Trophy
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adityabt/Adityabt/main/cyber-card.svg" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityabt&theme=onestar&no-frame=true&margin-w=10" />
 </div>
 
 ---
