@@ -125,11 +125,12 @@
 ## 🏆 GitHub Trophies:
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Adityabt?style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/Adityabt?style=for-the-badge&label=Stars" />
-<img src="https://img.shields.io/github/repo-size/Adityabt/Adityabt?style=for-the-badge&label=Repo%20Size" />
+<img height="140" src="https://img.shields.io/badge/Profile%20Views-Active-blueviolet?style=for-the-badge" />
+<img height="140" src="https://img.shields.io/badge/Commits-Private/Hidden-blue?style=for-the-badge" />
+<img height="140" src="https://img.shields.io/badge/Projects-Ongoing-green?style=for-the-badge" />
 
 </div>
+
 
 
 
