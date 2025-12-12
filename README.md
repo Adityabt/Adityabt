@@ -124,8 +124,13 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityabt&theme=dark&no-frame=true&no-bg=false&margin-w=4" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityabt&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityabt&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
 </div>
+
 
 ---
 
