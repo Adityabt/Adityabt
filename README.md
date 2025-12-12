@@ -124,8 +124,9 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/therealadiassets/cyber-card/main/cyber-card.png" width="650" />
+  <img src="https://raw.githubusercontent.com/therealadiassets/glass-profile/main/glass-card.png" width="600" />
 </div>
+
 
 
 
