@@ -56,8 +56,9 @@
 
 ## 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Adityabt/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Adityabt&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
 
 
 ---
