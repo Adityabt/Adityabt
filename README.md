@@ -99,9 +99,6 @@
 ---
 
 ## 🏆 GitHub Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityabt&theme=onestar&no-frame=true&margin-w=10" />
-</div>
 
 ---
 
@@ -119,6 +116,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adityabt&icon=0&color=0" />
-</div>
