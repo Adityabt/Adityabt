@@ -1,0 +1,28 @@
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF"/>
+      <stop offset="100%" stop-color="#92FE9D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="260" rx="22" fill="#0F172A"/>
+
+  <text x="40" y="60" fill="white" font-size="32" font-family="Arial" font-weight="700">
+    Top Languages
+  </text>
+
+  <g transform="translate(40,100)">
+    <text x="0" y="0" fill="white" font-size="20" font-family="Arial">JavaScript</text>
+    <rect x="0" y="10" width="420" height="14" rx="7" fill="url(#bar)"/>
+
+    <text x="0" y="50" fill="white" font-size="20" font-family="Arial">React</text>
+    <rect x="0" y="60" width="350" height="14" rx="7" fill="url(#bar)"/>
+
+    <text x="0" y="100" fill="white" font-size="20" font-family="Arial">Node.js</text>
+    <rect x="0" y="110" width="280" height="14" rx="7" fill="url(#bar)"/>
+
+    <text x="0" y="150" fill="white" font-size="20" font-family="Arial">C++</text>
+    <rect x="0" y="160" width="240" height="14" rx="7" fill="url(#bar)"/>
+  </g>
+</svg>
