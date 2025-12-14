@@ -3,6 +3,6 @@
   <rect width="700" height="260" rx="22" fill="#0F172A"/>
   <text x="40" y="60" fill="white" font-size="32" font-family="Arial" font-weight="700">Top Languages</text>
   <g transform="translate(40,100)">
-    <text x="0" y="0" fill="white" font-size="20" font-family="Arial">JavaScript</text><rect x="0" y="10" width="400" height="14" rx="7" fill="#00C9FF"/><text x="0" y="50" fill="white" font-size="20" font-family="Arial">CSS</text><rect x="0" y="60" width="320" height="14" rx="7" fill="#00C9FF"/><text x="0" y="100" fill="white" font-size="20" font-family="Arial">HTML</text><rect x="0" y="110" width="240" height="14" rx="7" fill="#00C9FF"/><text x="0" y="150" fill="white" font-size="20" font-family="Arial">TypeScript</text><rect x="0" y="160" width="160" height="14" rx="7" fill="#00C9FF"/>
+    <text x="0" y="0" fill="white" font-size="20" font-family="Arial">JavaScript</text><rect x="0" y="10" width="400" height="14" rx="7" fill="#00C9FF"/><text x="0" y="50" fill="white" font-size="20" font-family="Arial">TypeScript</text><rect x="0" y="60" width="320" height="14" rx="7" fill="#00C9FF"/><text x="0" y="100" fill="white" font-size="20" font-family="Arial">CSS</text><rect x="0" y="110" width="240" height="14" rx="7" fill="#00C9FF"/><text x="0" y="150" fill="white" font-size="20" font-family="Arial">HTML</text><rect x="0" y="160" width="160" height="14" rx="7" fill="#00C9FF"/>
   </g>
 </svg>
