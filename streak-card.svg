@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="220" rx="20" fill="#FF416C"/>
-  <text x="40" y="60" fill="white" font-size="32" font-family="Arial" font-weight="700">Contribution Streak 🔥</text>
-  <g transform="translate(40,100)"><rect width="620" height="90" rx="14" fill="#ffffff22"/><text x="20" y="45" fill="white" font-size="22">Current Streak:</text><text x="240" y="45" fill="white" font-size="22" font-weight="700">— Days</text></g>
-</svg>
