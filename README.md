@@ -33,16 +33,10 @@
 
 <br/>
 
-## About
-
-I'm Aditya Thakur, a Full Stack Developer and B.Tech Electronics & Computer Engineering student at SRM Institute of Science and Technology.
-
-My experience spans modern web development, AI-powered applications, product-focused engineering, and production development environments. I've worked across startup internships, full-stack product development, AI integrations, authentication systems, scalable architectures, and user-centric digital experiences.
-
-I've contributed to decentralized identity platforms, engineered AI-powered applications, developed full-stack learning products, and built research-oriented computer vision systems. My focus lies in creating scalable software products that combine strong engineering fundamentals with practical user value.
-
-Current interests include Product Engineering, Generative AI, Agentic AI Systems, Scalable Software Architecture, Cloud Technologies, and Modern Full Stack Development.
-
+## About ME
+<p align="justify">
+I'm Aditya Thakur, a Full Stack Developer and B.Tech Electronics & Computer Engineering student at SRM Institute of Science and Technology. My experience spans modern web development, AI-powered applications, product-focused engineering, and production development environments. I've worked across startup internships, full-stack product development, AI integrations, authentication systems, scalable architectures, and user-centric digital experiences. I've contributed to decentralized identity platforms, engineered AI-powered applications, developed full-stack learning products, and built research-oriented computer vision systems. My focus lies in creating scalable software products that combine strong engineering fundamentals with practical user value. Current interests include Product Engineering, Generative AI, Agentic AI Systems, Scalable Software Architecture, Cloud Technologies, and Modern Full Stack Development.
+</p>
 <br/>
 
 ## Tech Stack
